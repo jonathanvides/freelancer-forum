@@ -1,0 +1,23 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+   list-style-type: none;
+}
+
+li {
+    margin: 1em;
+    padding: 1em;
+    border: solid 1px black;
+    font-size: medium;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+h2 {
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
